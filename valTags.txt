@@ -1,0 +1,10 @@
+benzene
+ane
+nitro
+halide
+carbonyl
+primary
+secondary
+tertiary
+hydroxyl
+ether

@@ -1,0 +1,35 @@
+
+     Ketone and Grignard to Ether
+ (halide)->(hydroxyl)!(tertiary)
+Nucleophillic carbon from grignard attacks carbon on ketone, double bond electrons get bumped to oxygen, protonated by acid.
+ ------------------------------------
+
+     Primary Alcohols to Aldehydes with PCC
+ (hydroxyl)!(tertiary)->(primary carbonyl)
+Both secondary alcohols and primary alcohols are turned into carbonyls with the exception of tertiary alcohols. (BOOK)
+ ------------------------------------
+
+     Carboxylic Acids from KMnO4
+ (benzylic)!(tertiary)->(primary hydroxyl carbonyl)
+KMnO4 sheers benzylic carbon chain down to ONLY the benzylic carbon on the chain. Not possible with fully unsaturated benzylic carbon. (BOOK)
+ ------------------------------------
+
+     Jones Oxidation
+ (hydroxyl)!(tertiary)->(primary hydroxyl carbonyl)!(tertiary)
+Uses CrO3 in aq. H2SO4 over acetone to form aldehyde from primary alcohol or ketone from secondary alcohol. (BOOK)
+ ------------------------------------
+
+     Reduction of Carbonyls with Lithium Aluminum Hydride
+ (primary carbonyl)->(hydroxyl)!(tertiary)
+Needs acid work up. Lithium aluminum hydride reduces carboxylic acid to primary alcohol. Reduces aldehydes to primary alcohols. Reduces esters to two alcohols. The R group from the carbonyl carbon remains attached to the carbonyl carbon and then an alcohol. And the R' group from the ester turns into R'-OH. (BOOK)
+ ------------------------------------
+
+     Hydrolysis of Esters
+ (ether carbonyl)->(carbonyl hydroxyl)
+This reaction is in equilibrium. Under acidic conditions an ester is split into a carboxylic acid (based off the carbonyl carbon) and an alcohol (from the R group on the ether). Under basic conditions the carboxylic acid remains deprotonated as an anion with a negative charge on the oxygen. The alcohol from the ether's R group remains the same in acidic and basic conditions.
+ ------------------------------------
+
+     Primary Amides converted to Nitriles with Thionyl Chloride
+ (primary carbonyl)->(hydroxyl carbonyl)
+Needs Thionyl Chloride (SOCl2), HCl, and heat. Amide is broken up into carboxylic acid centered around carbonyl group and forms an amine salt from the R group off the amide. Lone pair from amide forms double bond with carbonyl carbon, which knocks out oxygen's double bond electrons out to sulfur in thionyl chloride, which bumps the double bond to the oxygen in the Thionyl Chloride. This one step leaves the oxygen from the Thionyl Chloride negatively charged and the nitrogen with a positive charge (one doulbe to the carbonyl carbon and two singles to hydrogens). Then lone pair from Thionyl Chloride bumps back to sulfur to form double bond, which bumps one S-Cl bond to the Cl (Cl leaves). Now the positively chargen nitrogen is stabilized by the chlorine anion. The nitrogen is then deprotonated so that it is double bonded with the old carbonyl carbon. Once the nitrogen is deprotonated again, the resulting triple bond to the carbonyl carbon dislodges the old carbonyl oxygen (not currently double bounded), which causes the S-Cl bond to break as O=S=O is formed. This leaves the nitrogen double bonded to the original carbonyl carbon.
+ ------------------------------------
