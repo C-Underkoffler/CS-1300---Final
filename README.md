@@ -8,7 +8,9 @@ My Professor was Dr. Knox and my TA was Erik Holbroock (you might see their name
 I recommend reading through "CS_Project_Carl_Underkoffler.pdf" if you want a better understanding of the project. This will give a more in depth look at the classes I made and how the program is structured. In short: the idea is to input a compound's name and it will spit back to you valid reactions for that compound.
 
 ### Running the Program
-Enter the name of the compound that you're interested in per my naming guidelines (should be explained in the actual write up). Keep in mind, active groups must be in the valid tags text file and implemented in the reaction requirements text file in order for it to work.
+Right now, the program runs with one of the test cases. To change this, comment out the test case at the top of project_1_main.cpp, and commnt in the call for the getInput() function. This should be located towards the very top of int main(){}.
+
+When manually entering compounds, enter the name of the compound that you're interested in per my naming guidelines (should be explained in the actual write up). Keep in mind, active groups must be in the valid tags text file and implemented in the reaction requirements text file in order for it to work.
 
 ### Chemistry Grievances
 If you have any knowledge of Chemistry you may be confused by my oversimplification or wrong chemistry especially in the reaction requirements (shown in "reactions.txt"). I have no excuse other than I was fighting to get this finished on time, I only intended this to be seen by CS faculty, and proper Chemistry wasn't terribly important to demonstrating the program could perform the task at hand.
